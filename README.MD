@@ -1,10 +1,10 @@
-# Airwritten Burmese Alphabet Image Dataset
+# Air-written Burmese Alphabet Image Dataset
 
-This dataset was created for an OCR system to recognize airwritten Burmese alphabets. It was developed as part of my 4th year Computer Vision project at UCSY (University of Computer Studies, Yangon).
+This dataset was created for an OCR system to recognize air-written Burmese alphabets. It was developed as part of my 4th year Computer Vision project at UCSY (University of Computer Studies, Yangon).
 
 ## Dataset Details
 
-- Purpose: OCR for airwritten Burmese alphabets
+- Purpose: OCR for air-written Burmese alphabets
 - Input Method: Finger tracking using webcam
 - Format: **BGR** JPG images
 - Resolution: 83 × 84 pixels
@@ -17,4 +17,4 @@ The dataset was created manually using a custom Python application with OpenCV a
 
 ## Data Collection
 
-To collect your own airwritten data, use the provided `capture.py` script. It uses MediaPipe and OpenCV to detect fingertip movement and draw on a black canvas. Press `c` to capture and save the image file and `d` to clear the canvas.
+To collect your own air-written data, use the provided `capture.py` script. It uses MediaPipe and OpenCV to detect fingertip movement and draw on a black canvas. Press `c` to capture and save the image file and `d` to clear the canvas.
