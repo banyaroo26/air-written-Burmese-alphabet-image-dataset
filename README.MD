@@ -6,7 +6,7 @@ This dataset was created for an OCR system to recognize airwritten Burmese alpha
 
 - Purpose: OCR for airwritten Burmese alphabets
 - Input Method: Finger tracking using webcam
-- Format: **RGB** JPG images
+- Format: **BGR** JPG images
 - Resolution: 83 × 84 pixels
 
 This dataset includes all Burmese alphabets recorded in 83×84 resolution, with 30 images per character.
